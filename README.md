@@ -15,3 +15,7 @@
 
 1. Play with the architecture to see if it improves it
 2. Try adadelta and adam optimzer.
+
+### kaggle kernel
+
+1. <https://www.kaggle.com/anand0427/recognizer-with-cnn-augmentation-and-annealing>
